@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+*.py[cod]
+data/chroma_kb/
+data/chroma_stage0/
+.env
+.env.*
+!.env.example
